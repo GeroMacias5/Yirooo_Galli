@@ -1,0 +1,19 @@
+.menu{
+    width: 900px;
+    margin: 0 auto;
+}
+nav{
+    float: right;
+}
+nav ul li{
+    list-style: none;
+    margin-left: 75px;
+    float: left;
+    padding: 12px 0;
+    position: relative;
+}
+nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+}
